@@ -6,3 +6,5 @@ I included a lot of referential humor from back in the day, including some refer
 possibly Homestuck. There isn't anything keeping the program from terminating so attempting to run this in Windows will cause the game to terminate and cut out some funny messages. I 
 still need to test this out on the command line, I think it's possible to see some of the things you can't in Windows. But it's all here in the source code. The project will eventually be safe to 
 download from danielsprojects.net.
+
+Big shoutout to my friend/former classmate Christopher Guthrie for helping me figure out how to implement the various rooms in the game. Without your help this project may have never been possible.
